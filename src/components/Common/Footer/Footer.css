@@ -1,0 +1,19 @@
+.footer {
+    align-self: stretch;
+    height: 48px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background: #262626;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    display: flex;
+    text-align: center;
+    color: #636366;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 24px;
+    word-wrap: break-word
+}
